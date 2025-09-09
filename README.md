@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeprahPhilipa
+- 👋 Hi, I’m Peprah Philipa
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects that will help me gain more knowledge on what I am learning.
